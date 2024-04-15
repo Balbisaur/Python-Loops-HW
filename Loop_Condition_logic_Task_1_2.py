@@ -7,3 +7,10 @@ while True:
     else:
         print('we are going to be stuck here forever! ;c')
 
+
+
+nums = 0
+
+while nums <= 11:
+    print('running code')
+    nums += 2.5
